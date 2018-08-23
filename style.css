@@ -1,0 +1,37 @@
+body {
+background: #196dff;
+text-align: center;
+}
+
+#main {
+width: inherit;
+height: inherit;
+background: #ffab19;
+margin: 60px;
+border: solid 10px #ff3819;
+}
+
+#center {
+
+}
+
+h1 {
+text-align: center;
+font-family: fantasy;
+font: 36pt;
+color: #ff3819;
+}
+
+hr {
+height: 2px;
+margin: 10px;
+border: solid 10px #ff3819;
+color: #08ff00;
+}
+
+p {
+text-align: center;
+font-family: calibr;
+font: 25pt;
+color: #08ff00;
+}
